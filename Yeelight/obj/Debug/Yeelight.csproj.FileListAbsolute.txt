@@ -1,0 +1,6 @@
+c:\users\lupo_\documents\visual studio 2015\Projects\Yeelight\Yeelight\bin\Debug\Yeelight.exe.config
+c:\users\lupo_\documents\visual studio 2015\Projects\Yeelight\Yeelight\bin\Debug\Yeelight.exe
+c:\users\lupo_\documents\visual studio 2015\Projects\Yeelight\Yeelight\bin\Debug\Yeelight.pdb
+c:\users\lupo_\documents\visual studio 2015\Projects\Yeelight\Yeelight\obj\Debug\Yeelight.exe
+c:\users\lupo_\documents\visual studio 2015\Projects\Yeelight\Yeelight\obj\Debug\Yeelight.pdb
+C:\Users\lupo_\Documents\Visual Studio 2015\Projects\Yeelight\Yeelight\obj\Debug\Yeelight.csprojResolveAssemblyReference.cache
